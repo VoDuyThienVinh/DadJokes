@@ -26,7 +26,7 @@ https://github.com/VoDuyThienVinh/DadJokes
 
 ## 4. Screenshots 😂
 
-![Image description](images/dadjokes.png)
+![Image description](images/dadjokes.PNG)
 
 ## 5. Link Github-Page 😁
 
